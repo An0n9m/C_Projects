@@ -23,10 +23,7 @@ Connect the ST7920 LCD to your Arduino Uno as follows (modify pin definitions in
 - **Power**: VCC to 5V, GND to GND, and ensure proper connections for backlight (if used).
 
 ## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/st7920-driver.git
-   ```
+1. Clone this repository
 2. Ensure you have the AVR-GCC toolchain and `avrdude` installed (e.g., via Arduino IDE or standalone).
 3. Connect your Arduino Uno to your computer via USB.
 
